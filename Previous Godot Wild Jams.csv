@@ -1,0 +1,250 @@
+Jam#,Theme,Wildcard 1,Wildcard 2,Wildcard 3,Bonus Card,Number of Entries
+1,Evolution,,,,,16
+2,Hidden Within,,,,,29
+3,Pick Your Poison,,,,,15
+4,"The 12 Levels of Christmas, Lose to Win, Surprise!, Change a World, Accessibility: Games for the blind or color blind, Cats, Christmas Sucks, Delivery, Automation, Destruction/Reconstruction (Chose One)",,,,,14
+5,Natural Disaster or One Control (Pick one),,,,,18
+6,"Out of Place Cacti 
+(Any combination of the phrase)",,,,,32
+7,Possession,,,,,26
+8,Black Hole,,,,,21
+9,Underworld,,,,,23
+10,Glitch,,,,,28
+11,Parallel Dimensions,,,,,17
+12,Chain • Destruction • Harvest (Pick two or more),,,,,30
+13,Merge,,,,,29
+14,"Shadows 
+(First Jam with Wild Cards)","Palette Limiter
+Use no more than Four colors in your game","What the Cluck?!
+include at least one chicken-related sound effect in your game","Trick or Treat
+Make your game spooky (or spoopy)",,22
+15,Floating Islands,"Copy that Floppy!
+Include a floppy disk somewhere in your game","Wing it!
+Randomly/ procedurally generate part of your game","Phantom Sequel
+Make your game as though it's the sequel to a game that doesn't exist",,19
+16,Short on Time,"Flurries
+Include a particle system in your game","Vox Actors
+Include voice acting in your game","Jingle Bells
+Include bells in your game's soundtrack",,21
+17,Second Chances,"Lookin' Good!
+Implement some form of character customization","Clockwork
+Have your game use real-world time in some way","Agreeable
+Implement some form of multiplayer in your game",,23
+18,Plague,"80's Baby!
+Recreate the visual style of 1980s media","Take a Chance on Me
+Create a system of chance in your game","I Wish it Would Rain
+Implement weather effects of some kind in your game","Willowcard
+Include Willowblade in your game",42
+19,Discovery,"Non-verbal
+Use Non-verbal communication in your game","For All
+Include accessibility features in your game","BOOM!
+Feature destructible environments in your game",,32
+20,Every End is a Beginning,"Egg Hunt
+Hide secrets in your game","Pacifist
+Make your game involve no death or injury","Dad Joke
+Tell a really bad joke in your game",,55
+21,Connection,"Move it!
+Make your game fun to speedrun","Juice it!
+Mark your game juicy","Two Butons
+Make your game playable with just two buttons",,87
+22,Revolution,"Make it Up!
+Use procedural generation in your game","Another's Shoes
+have your game feature multiple protagonists ","Who are You?
+Feature NPCs you can interact with in your game",,72
+23,Tiny World,"Wherefor Art Thou?
+Let the player name the protagoinst","Dig it!
+Feature destructible terrain in your game","Seamless
+Make your title screen be part of the game itself",,53
+24,Family,"Pet the Dog
+Include a dog that the player can pet","Secret Passage
+Include a hidden shortcut somewhere in your game","Quip it Good
+Have a snarky narrator in your game","Watchmaker
+include the passage of time in your game",69
+25,"Change Yourself, Change the World","HUD-less
+Don't use a HUD: Have all the information be in the game world","Traditionalist
+Use (or imitate) traditional art styles in your game","Forbidden Fruit
+Put something in your game that the player is forbidden",,45
+26,"Bread, Spooky, Prehistoric 
+Choose one, two or all three!","Hey! Listen!
+Feature a companion character in your game","Cheater!
+Put cheat codes in your game","Delightfully Mundane
+Put something fun and trivial in your game",,28
+27,Books*,"Tamer
+Make a game where you can turn enemies into friends","Stay Awhile
+Create a rich backstory for your game","Dramatis Non Persona
+Make a character out of an inanimate object",,28
+28,Egg,"Bamboozled
+Trick the player with a false start, end, or game over screen","Two Heads
+Have co-op mechanics in your game","D.I.Y.
+Add a crafting system to your game",,53
+29,Nomad,"Educational
+Make your game educational in some form","Don't Go Alone
+Feature a companion or pet in your game","Better, Faster, Stronger
+Have acquirable upgrades in your game",,46
+30,HeartBeat,"See No Evil
+Make a game without visuals","Flattery
+Have the player believe they're doing great even though they don't","Arcade
+Add a playable game inside your game",,84
+31,Something's Missing,"Oregano
+Add oregano to your game. Everything is better with oregano","You Wot M8?
+Ignore the theme completely","Duck, Duck, Moose
+Have one object in your game that is of an entirely different art style",,80
+32,Seven,"Good Things Come to Those Who Wait
+Player standing idle helps their progression","Dare to Fail
+failure is just another path to victory","Roll a D20
+Include some RPG mechanics in your game",,88
+33,You aren't the hero,"Fully Immersed
+Make your menus and UI be part of the game world","Transmutation
+You can't kill enemies only change them","Getting Rich
+Include a form of currency in your game",,88
+34,Space,"What's Up Doc?
+Add some carrots in your game
+(Health, Power-up, Ammo, etc.)","Game Time
+Player's real-world time affects something in the game world","No Place Like Home
+Include a home/hub area, level, or world in your game ",,75
+35,Lost Tech,"Tradeoff
+You can negatively impact yourself to gain an advantage","Unreliable Narrator
+Include a narrator or guide who provides unreliable advice for the player","Redacted
+Include ____ __ in your game",,71
+36,Uncontrollable Growth,"Physician, Heal Thyself
+Implement a Clever health system in your game","Now you see me, now you don't
+Include hidden /
+camouflaged Elements","Competitive Spirit
+Allow for some Competition",,73
+37,Inside the Machine,"Time Dilation
+Manipulate the flow of time in your game","Hidden Tutorial
+Subtly teach game mechanics without an explicit tutorial","Forbidden Palace
+Where those inside can't go out & those outside can't go in by normal means",,59
+38,Solarpunk,"Spoopy
+Make a cute, comical, or silly Horror game","Who even reads?
+Don’t include any text in your game","Behold!
+Move the camera to something significant",,68
+39,Inversion,"Prithee, Speak!
+Have a system for talking to NPCs in your game","Kids These Days
+Have a character complain about everything the player does","Mobile Friendly
+Make sure your HTML5 build can be played from a touch screen",,31
+40,Cozy,"SEGAAAAA
+Have a splash-screen intro with an audio jingle and logo","New Game+
+Add content that's only accessible after winning at least once","Overworked
+Your characters are not machines and need occasional breaks",,51
+41,Ocean,"Sound of Y'all
+All sounds in-game are made with your mouth(s)","Fishy Business
+Include a fishing mini-game","It's Treeson Then
+Include your favorite quote or Pun in game",,88
+42,Ancient,"Heavy Lies the Crown...
+Make the Player face an uncomfortable decision!","Gotta Go Fast
+Include a Speedrun timer","Mom, I'm on TV!
+Shoehorn in developer cameos",,61
+43,Combine,"Click me!
+Make something unexpectedly clickable","The More the Merrier
+Control more than one character","Roll with it
+Add an element of bad luck for the player",,58
+44,Fragile,"No Health Bar
+Add a Health System that's Not a UI Element","Boss Theme Intensifies
+Add Music that Reacts to Gameplay Intensity","Level Menu
+The Main Menu is also a Playable Level",,75
+45,Underground,"Breathtaking
+Include a Scenic View","Next!
+Have Your Character Change Visually After Death","Deal with the Devil
+Make a Trade that You'll Regret",,81
+46,Orb,"I Feel Small
+Make enemies much larger than the player","Fear of the Dark
+Make someone (or something) follow the player","Non-Euclidean
+Have a map that is impossible in the real world",,64
+47,Symmetry,"Unusual Look
+Use a weird art style in your game","Not twice
+Repeated mistakes cost more...","Inventory Limited
+Choose carefully what to keep",,49
+48,Moon,"Naptime
+Include the ability to rest in your game","Not another platformer
+Don't allow the player to jump","Been here before...
+Force the player to return to a previous zone",,60
+49,Unstable,"Overgrown
+Have part of your game overgrown by plants","Colossal Creature
+include a massive living thing in your game","A Blast from the Pastel
+Use a pastel color palette",,68
+50,Ritual,"Animism
+Give Life to Something Ordinarily Inanimate","Superstitious
+Add Elements of Superstition in your game","Stay in the Light/Dark
+You are Safe When in Light/Dark Areas",,72
+51,Upgrades,"Boom Goes the Dynamite
+Have some sort of explosion in game","Fury of the Storm
+Add weather related hazards","Bread
+Include bread as a vital part of your game",,51
+52,Ghosts,"We Got a Deal!
+Have a trade mechanic in your game","Take It Easy
+Have multiple difficulty levels in your game","Guiding Light
+Find your way in the dark",,54
+53,Assembly Required,"Four Color Limit
+Limit your palette to four colors","Wait, what?
+Include a plot twist in your story","Thermometer
+Use temperature as a Game mechanic",,174
+54,Curses,"Crumbling Location
+This place is falling apart, too bad you're in it","Faustian Bargain
+Make a deal with the devil","Do It For Me
+Use procedural generation ",,79
+55,Dreams,"Disassemble
+Instead of lives, player loses parts","A Fork in the Road
+Have different paths or endings","Kaboom!
+Just pack your game full of explosions",,91
+56,Monster,"Collect ‘em All
+Include multiple Collectables","Thy Visage
+Allow character customization ","Exposure
+Add environmental hazards of some kind",,56
+57,Forgotten Knowledge,"Navigator
+Include a map in your game","Checkpoint
+Save the player's progress for them","Under pressure
+Include some kind of pressure (time, mental, etc)",,45
+58,Rain or Shrine,"Textless
+Don't use any text anywhere in your game","Windy
+Wind is a part of gameplay","Mythical Mashup
+Combine different mythologies or folklore",,77
+59,Train,"Spit that out
+Have a consumable that can be eaten but really shouldn't","Find the frog
+Hide a frog somewhere in your game","And my Axe!
+Have a companion that follows and assists",,82
+60,Malfunction,"Uno
+Reverse any of the game's rules at any time","Mobius loop
+your game starts and ends at the same point","One Moment
+Have a bench to sit on and relax",,45
+61,Ascension,"Naturalist
+Control the environment instead of a character","Diplomatic
+Achieve goals without killing","Icarus
+Have a great power that can lead to doom","C SHARP
+Create your game in C#",55
+62,Harvest,"Carpe noctem
+Have a game mechanic involving night time","Autumn/Falls
+Add Dead Leaves, Pumpkins, etc...","One or two?
+Offer the Player a Choice",,103
+63,Cats !,"To Travel is to Live
+Take the player to multiple distinct locations","Like the old days
+Implement 5+ cheat codes in your game","Arch-Nemesis
+Have a main antagonist who opposes the Theme!",,142
+64,Illumination,"White-out/Freezing out
+Winter Weather or Cold-related effects, graphical and/or mechanical","Blood is fuel
+Create a unique mechanic to restore health","Trash Everywhere
+Some actions leave the player with waste/junk",,116
+65,Overload,"The Good Ending
+Have more than one win condition","Unspoken Stories
+Tell a story through the environment, not through dialogue","Choose Your Fighter
+Allow the player to choose between characters",,156
+66,Escape,"Here Comes the Sun
+Give the player a reason to love or hate the sun","Think inside the box
+The game takes place within a single room","Betrayal
+Allow enemies and allies to switch sides",,158
+67,Parasite,"Gridlock
+Restrict movement to a grid","Roshambo
+What beats one is beaten by the other","Silliness Switch
+Googly eyes, Fake moustaches, Big head mode, etc",,152
+68,Forge,"Wah Wah Wah Waah
+Add a funny Game Over sound","Pay Attention, 007
+Have cool gadgets in your game!","Hardcore
+Make the player restart on death",,153
+69,VOID,"Give Me a Minute
+Include cooldown timers in your game","Memory lane
+Show an earlier part of the game near the end","What's this?
+Hide an easter egg in the UI",,188
+70,Folklore,"Transfer Takeover
+Play as different characters","Actions have Consequences
+Player's actions persist between each playthrough","Turtles all the way down
+Use recursion in level design/story elements",,203
